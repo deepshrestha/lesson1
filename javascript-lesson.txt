@@ -1,0 +1,27 @@
+node --es-module-specifier-resolution=node index.js
+
+===================================================
+
+Pre-requisites
+==============
+
+NodeJs -> node.org
+visual studio code
+git
+webpack
+
+Javascript in nutshell ( core syntax with variables and primitive datatypes )
+function declaration vs function expression
+Let & Const
+Arrow Functions
+Objects, Properties & Methods
+callback function
+async & promise
+Spread & Rest operators
+Destructuring
+Template Literals
+Modules -> Component
+Class
+
+digesh047@gmail.com
+ninarai.yr1c5@gmail.com
